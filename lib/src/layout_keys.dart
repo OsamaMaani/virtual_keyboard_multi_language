@@ -94,7 +94,7 @@ const List<List> _defaultEnglishLayout = [
     ',',
     '.',
     '/',
-    VirtualKeyboardKeyAction.Shift
+    '#'
   ],
   // Row 5
   const [
@@ -103,6 +103,14 @@ const List<List> _defaultEnglishLayout = [
     VirtualKeyboardKeyAction.Space,
     '&',
     '_',
+    '+',
+    "-",
+    "(",
+    ")",
+    '*',
+    "=",
+    "%",
+    "\$"
   ]
 ];
 
